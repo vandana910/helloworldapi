@@ -1,0 +1,13 @@
+obj/helloworldapi.csproj.nuget.dgspec.json
+obj/helloworldapi.csproj.nuget.g.props
+obj/helloworldapi.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+obj/Debug/net7.0/helloworldapi.AssemblyInfo.cs
+obj/Debug/net7.0/helloworldapi.AssemblyInfoInputs.cache
+obj/Debug/net7.0/helloworldapi.assets.cache
+obj/Debug/net7.0/helloworldapi.csproj.AssemblyReference.cache
+obj/Debug/net7.0/helloworldapi.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/helloworldapi.GlobalUsings.g.cs
+obj/Debug/net7.0/project.razor.json
